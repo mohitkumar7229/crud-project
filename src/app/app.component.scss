@@ -1,0 +1,20 @@
+.container {
+    width: 100%;
+  }
+  .custom-save-btn {
+    color: #f7eeee;
+    background-color: #C68EFD !important;
+    transition: background-color 0.3s ease;
+  }
+  
+  .custom-save-btn:hover {
+    background-color: #be83f8;
+    color: white; /* Darker green on hover */
+  }
+  .border-custom{
+    border: 1px solid black !important;
+  }
+  .mat-mdc-dialog-surface{
+    border-radius: 0px !important;
+  }
+  

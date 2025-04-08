@@ -1,0 +1,22 @@
+.custom-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    background-color: #1976d2; // custom color if you prefer
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-bottom: 2px solid #1565c0;
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+    
+  }
+  
+  .header-title {
+    font-size: 1.8rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: white;
+    text-transform: uppercase;
+  }
+  
